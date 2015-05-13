@@ -10,6 +10,6 @@ But few times, the application works!
 
 Below, the flow chart and an UML diagrams (not perfect for both)
 
-![main flow chart](/relative/path/to/img.jpg?raw=true "Optional Title")
+![main flow chart](github.com/Perraudeau/whatToCook/blob/master/img/flowChart.png?raw=true "Optional Title")
 
-![main UML](/relative/path/to/img.jpg?raw=true "Optional Title")
+![main UML](github.com/Perraudeau/whatToCook/blob/master/img/UML.png?raw=true "Optional Title")
